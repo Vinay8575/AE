@@ -1,2 +1,0 @@
-yen hing nodta edya
-  
