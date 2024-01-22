@@ -1,0 +1,47 @@
+19:34:38.984 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+19:45:13.620 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+19:48:22.856 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+19:48:50.547 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+19:49:37.550 [TestNG-tests-1] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+19:49:45.306 [TestNG-tests-2] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+20:45:31.822 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+16:36:58.223 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:37:06.824 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:37:18.985 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+16:37:18.994 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:37:31.664 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+16:37:31.675 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:37:45.033 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+16:37:45.040 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:48:25.434 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:48:32.264 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:48:44.150 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+16:48:44.153 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:48:57.366 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+16:48:57.379 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:49:10.439 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+16:49:10.446 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:59:05.808 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+16:59:22.487 [main] ERROR testCases.TC_001_SignupTest - test failed
+16:59:28.863 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:59:41.399 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+16:59:53.748 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+16:59:53.966 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+17:00:06.865 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+17:00:07.082 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+17:00:19.904 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+17:00:20.093 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+17:10:50.746 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+17:22:01.787 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+17:22:18.120 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+17:22:24.925 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+17:22:38.085 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+17:22:38.229 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+17:22:52.260 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+17:22:52.400 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+17:23:06.229 [main] ERROR testCases.TC_003_LoginDataDrivenTest - Exception handled
+17:23:06.366 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ********* Started TC_003_LoginDataDrivenTest*****************
+17:27:52.528 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+17:27:53.573 [main] ERROR testCases.TC_001_SignupTest - test failed
+17:29:54.485 [main] INFO  testCases.TC_001_SignupTest - ********verfiying theTC_001_SignupTest********
+17:32:23.108 [main] ERROR testCases.TC_001_SignupTest - test failed
